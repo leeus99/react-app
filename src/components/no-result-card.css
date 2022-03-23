@@ -1,0 +1,10 @@
+.no-result-wrapper {
+  padding: 2px 6px;
+  border: 1px solid #dc143c;
+  background-color: rgb(255, 209, 209);
+}
+
+.no-result-wrapper span {
+  padding: 2px 8px;
+  font-size: 14px;
+}

@@ -1,0 +1,11 @@
+.details-wrapper{
+  padding: 16px 32px;
+}
+
+.details-wrapper .label{
+  color: #5e5e5e;
+}
+
+td{
+  font-size: 14px;
+}

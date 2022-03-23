@@ -1,0 +1,15 @@
+label{
+  margin-right: 10px;
+}
+
+label input{
+  margin-left: 5px;
+}
+
+.form-btn{
+  background-color: #d3d3d373;
+  border-radius: 8px;
+  border: 1px solid grey;
+  margin-left: 5px;
+}
+

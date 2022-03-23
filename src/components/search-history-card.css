@@ -1,0 +1,15 @@
+.search-history-card-wrapper {
+    padding: 12px 0;
+}
+
+
+.search-history-card-wrapper:not(:last-child) {
+    border-bottom: 1px solid lightgray;
+}
+
+.icon-btn {
+    background: lightgray;
+    padding: 6px;
+    border-radius: 50%;
+    margin-left: 4px;
+}
